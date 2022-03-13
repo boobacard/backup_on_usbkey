@@ -1,2 +1,2 @@
-# backup_on_usbkey
-Backup data on USB Key
+# Backup data on USB Key
+Backup my data home-user on usb-key
